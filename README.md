@@ -1,2 +1,3 @@
 # hello-world
-practice
+making first commit, new to git
+interesting 
